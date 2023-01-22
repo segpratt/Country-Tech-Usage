@@ -1,7 +1,4 @@
-# ensf592_final_project.py
-# AUTHOR NAME Stewart Pratt, Dele Oyelese
-#
-# ENSF 592 Final project. Takes in and merges 3 data sheets to interpert data
+
 # based of a countries region, sub-region, internet usage and number of cellphones
 
 import pandas as pd
